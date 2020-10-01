@@ -117,4 +117,4 @@ In c++, we always need a **semicolon** at the end of a statement, otherwise we'l
 
 As for types, we'll save them for the next chapter.
 
-**[prev](../00_HelloWorld) | [home](../) <!-- | [next](../02_Types) -->**
+**[prev](../00_HelloWorld) | [home](../README.md) <!-- | [next](../02_Types) -->**
