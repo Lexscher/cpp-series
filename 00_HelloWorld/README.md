@@ -68,4 +68,4 @@ Not so simple, right?
 
 Lucky for us, great minds have been able to create more and more programming languages (**like C/C++ and Java**) that we can read and write, which then gets compiled into the code that machines can understand.
 
-**[Home](../README.md) <!-- | [next](../01_Structure) -->**
+**[Home](../README.md) | [next](../01_Structure)**
