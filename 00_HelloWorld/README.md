@@ -1,5 +1,7 @@
 # Hello World
 
+**[Check out the video if you haven't already](https://youtu.be/crYV_y3BwT4)**
+
 We'll breifly go over the parts of a computer, some history on programminig languages, then write our first c++ program!
 
 ## Parts of the Computer
@@ -66,4 +68,4 @@ Not so simple, right?
 
 Lucky for us, great minds have been able to create more and more programming languages (**like C/C++ and Java**) that we can read and write, which then gets compiled into the code that machines can understand.
 
-[Home](../README.md)
+**[Home](../README.md) <!-- | [next](../01_Structure) -->**
