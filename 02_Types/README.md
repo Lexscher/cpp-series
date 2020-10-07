@@ -111,4 +111,4 @@ Remember, in C++ when declaring a variable, we must also say what type this vari
     std::string full_name = "John Jacob Jingleheimer Schmidt";
     ```
 
-**[prev](../01_Structure) | [home](../README.md) <!-- | [next](../03_Conditionals) -->**
+**[prev](../01_Structure) | [home](../README.md) | [next](../03_Conditionals)**
