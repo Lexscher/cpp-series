@@ -25,11 +25,11 @@ This kind of logic is also very common in writing programs. We're be making cond
 
 ## Conditional Operators
 
-| symbol   | name    | example    |
-| -------- | ------- | ---------- |
-| **&&**   | **And** | `a && b`   |
-| **\|\|** | **Or**  | `a  ||  b` |
-| **!**    | **Not** | `!a`       |
+| symbol   | name    | example                |
+| -------- | ------- | ----------             |
+| **&&**   | **And** | `(a > b) && (b > c)`   |
+| **\|\|** | **Or**  | `(a > b) \|\| (b > c)` |
+| **!**    | **Not** | `!(a > b)`             |
 <!-- COME BACK HERE -->
 
 ## If Statements
