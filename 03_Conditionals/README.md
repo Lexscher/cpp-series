@@ -108,4 +108,4 @@ std::cout << "You moved " << direction + "\n";
 
 The switch statement always has a default case that we can use to handle anything we didn't specify. We'll build on this a bit more in the next chapter.
 
-**[prev](../02_Types) | [home](../README.md) <!-- | [next](../04_Loops) -->**
+**[prev](../02_Types) | [home](../README.md) | [next](../04_Loops)**
