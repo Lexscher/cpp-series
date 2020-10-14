@@ -9,8 +9,8 @@ int main() {
   float pi = 3.1415926;
   // Double Floating Point
   double pi = 3.14159265358979;
-  
-  // Boolean (True/False)
+
+  // Boolean (True/False) 
   bool sleepy = false;
 
   // Character
