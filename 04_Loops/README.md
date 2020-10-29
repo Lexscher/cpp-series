@@ -87,4 +87,4 @@ for (int i = 0; i < 10; i++) {
 
 We'll see more ways that for loops can be used in the next chapter.
 
-**[prev](../03_Conditionals) | [home](../README.md) <!-- | [next](../05_ArraysAndDictionaries) -->**
+**[prev](../03_Conditionals) | [home](../README.md) | [next](../05_ArraysAndDictionaries)**
