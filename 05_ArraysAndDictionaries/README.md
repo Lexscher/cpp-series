@@ -3,7 +3,7 @@
 We've made it this far, so it's time to start learning about some basic data structures.
 Not basic in that way! These are the data structures that you'll see being used the most.
 
-Our focus is on Arrays and Dictionaries because when programming, there may be times where we want to store a collection of data, that we'd like to use later.
+Our focus is on Arrays and Dictionaries because when programming, there may be times where we want to store a collection of data that we'd like to use later.
 
 ## **Arrays vs Vectors**
 
@@ -109,7 +109,7 @@ breif overview:
 
 #### Here's an example of how we can use an unordered map:
 
-1. initialize an unordered map that holds a zipcode and it's temperature in fahrenheit
+initialize an unordered map that holds a zipcode and its temperature in fahrenheit
 
 ```c++
    unordered_map<int, int> weather_map;
